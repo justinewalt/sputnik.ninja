@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "semantic-ui": "^2.2.11",
+    "semantic-ui-react": "^0.71.3"
+  }
+}
